@@ -1,6 +1,10 @@
 <h1 align="center">👋🏻 Welcome To Virus Profile 👋🏻</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbawistudio" alt="arbawistudio" /></a> </p>
+<h3 align="left">My Discord Account</h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/930059593835487303)](https://discord.com/users/930059593835487303)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-virus-dev" alt="me-virus-dev" /></a> </p>
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
@@ -16,7 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Virus-Dev&show_icons=true&locale=en" alt="arbawistudio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbawistudio&" alt="arbawistudio" /></p>
-    
-<h3 align="left">My Discord Account</h3>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/930059593835487303)](https://discord.com/users/930059593835487303)
