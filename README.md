@@ -22,7 +22,7 @@ I am a self-taught full stack developer with experience in creating responsive a
 ### 🛠️ Technologies and Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,scss,js,nodejs,express,postman,mongodb,git,github,react,next,ts,tailwind,cloudflare,vercel&perline=9" alt="Technologies and Tools I use" />
+  <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,js,nodejs,mongodb,github,cloudflare&perline=9" alt="Technologies and Tools I use" />
 </div>
 
 #
