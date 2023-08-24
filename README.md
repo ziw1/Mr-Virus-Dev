@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/543859053164494858)](https://discord.com/users/543859053164494858)
 
-# Under Ctrl
+# Mr Virus
 
 **`Fullstack Developer and Creator`**
 
