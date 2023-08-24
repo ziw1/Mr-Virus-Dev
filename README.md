@@ -1,22 +1,42 @@
-<h1 align="center">👋🏻 Welcome To Virus Profile 👋🏻</h1>
+[![Discord Presence](https://lanyard.cnrad.dev/api/543859053164494858)](https://discord.com/users/543859053164494858)
 
-<h3 align="left">My Discord Account</h3>
+# Under Ctrl
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/930059593835487303)](https://discord.com/users/930059593835487303)
+**`Fullstack Developer and Creator`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-virus-dev" alt="me-virus-dev" /></a> </p>
+I am a self-taught full stack developer with experience in creating responsive and dynamic web applications. I also run a YouTube channel called [Basic Codes](https://youtube.com/@Basic-Codes) where I create content related to web development. I'm always looking for new and exciting projects to work on!
 
-<h3 align="left">Connect with Me</h3>
 <p align="left">
-<a href="https://instagram.com/mr_virus_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moearabie" height="30" width="40" /></a>
-<a href="https://discord.gg/rHZCscNxaW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9mxaKNR9fN" height="30" width="40" /></a>
+      <a href="https://www.youtube.com/@Basic-Codes?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCz9RBZbD1JqTGUvs0GPUtrQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@Basic-Codes/videos">
+         <img alt="youtube views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCz9RBZbD1JqTGUvs0GPUtrQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/notunderctrl?tab=followers">
+         <img alt="followers" title="Follow me" src="https://custom-icon-badges.demolab.com/github/followers/notunderctrl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/mr-virus-dev?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/notunderctrl?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+   
+---
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+### 🛠️ Technologies and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbawistudio&show_icons=true&locale=en&layout=compact" alt="Mr-Virus-Dev" /></p>
+<div>
+  <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,scss,js,nodejs,express,postman,mongodb,git,github,react,next,ts,tailwind,cloudflare,vercel&perline=9" alt="Technologies and Tools I use" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Virus-Dev&show_icons=true&locale=en" alt="Mr-Virus-Dev" /></p>
+#
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Virus-Dev&" alt="Mr-Virus-Dev" /></p>
+### 💬 Socials
+
+<div>
+  <a href="https://youtube.com/@Basic-Codes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube"  />
+  </a>
+  <a href="[https://discord.underctrl.io](https://discord.gg/rHZCscNxaW)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"  />
+  </a>
+  <a href="https://twitter.com/Mr_Virus_Dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter"  />
+  </a>
+</div>
